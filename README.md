@@ -102,7 +102,7 @@ This platform empowers users with a user-friendly interface and robust backend A
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Zeeshan-Afzal-01/CodeSharingPlatform.git
+   git clone https://github.com/Mynameistalha/CodeSharingPlatform.git
    cd code-sharing-platform
    ```
 
@@ -147,4 +147,4 @@ Contributions are welcome! Follow these steps:
 
 ## Contact
 For inquiries or collaboration, contact:
-- [Zeeshan Afzal](mailto:zna152191@gmail.com)
+- [Talha Khan](mailto:iamtalhakhan009@gmail.com)
